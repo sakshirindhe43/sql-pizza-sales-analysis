@@ -35,7 +35,7 @@ This project explores a pizza sales dataset using structured SQL queries to extr
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 - `data/`: Contains all CSV datasets (orders, pizzas, pizza types, order details)
-- `sql_project.docx`: Contains screenshots of all solved SQL queries and results
+- https://github.com/sakshirindhe43/sql-pizza-sales-analysis/blob/main/sql_pizza_sales_project.docx : Contains screenshots of all solved SQL queries and results
 
