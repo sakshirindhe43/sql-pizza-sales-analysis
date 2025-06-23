@@ -1,6 +1,6 @@
 # sql-pizza-sales-analysis
 A beginner-friendly SQL project analyzing pizza sales using real-world data.
-# 🍕 SQL Pizza Sales Analysis Project
+# SQL Pizza Sales Analysis Project
 
 This project explores a pizza sales dataset using structured SQL queries to extract meaningful business insights. It is divided into three difficulty levels — Basic, Intermediate, and Advanced — to demonstrate strong SQL skills for data analytics.
 
@@ -8,27 +8,27 @@ This project explores a pizza sales dataset using structured SQL queries to extr
 
 ## 📊 SQL Questions Solved
 
-### 🔹 Basic
+###  Basic
 - Retrieve the total number of orders placed
 - Calculate the total revenue generated from pizza sales
 - Identify the highest-priced pizza
 - Identify the most common pizza size ordered
 - List the top 5 most ordered pizza types with quantities
 
-### 🔹 Intermediate
+###  Intermediate
 - Find the total quantity of each pizza category ordered (using JOINs)
 - Analyze the distribution of orders by hour of the day
 - Category-wise distribution of pizzas using relevant table joins
 - Calculate the average number of pizzas ordered per day (grouped by date)
 - Top 3 pizza types based on revenue
 
-### 🔹 Advanced
+###  Advanced
 - Percentage contribution of each pizza type to total revenue
 - Cumulative revenue trend analysis over time
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - MySQL
 - SQL Queries
 - Microsoft Word (for screenshots & documentation)
