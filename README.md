@@ -4,7 +4,7 @@ A beginner-friendly SQL project analyzing pizza sales using real-world data.
 
 This project explores a pizza sales dataset using structured SQL queries to extract meaningful business insights. It is divided into three difficulty levels ( Basic, Intermediate, and Advanced ) to demonstrate strong SQL skills for data analytics.
 
----
+
 
 ##  SQL Questions Solved
 
@@ -26,7 +26,7 @@ This project explores a pizza sales dataset using structured SQL queries to extr
 - Percentage contribution of each pizza type to total revenue
 - Cumulative revenue trend analysis over time
 
----
+
 
 ##  Tools Used
 - MySQL
