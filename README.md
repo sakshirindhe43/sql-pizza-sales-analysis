@@ -2,11 +2,11 @@
 A beginner-friendly SQL project analyzing pizza sales using real-world data.
 # SQL Pizza Sales Analysis Project
 
-This project explores a pizza sales dataset using structured SQL queries to extract meaningful business insights. It is divided into three difficulty levels — Basic, Intermediate, and Advanced — to demonstrate strong SQL skills for data analytics.
+This project explores a pizza sales dataset using structured SQL queries to extract meaningful business insights. It is divided into three difficulty levels ( Basic, Intermediate, and Advanced ) to demonstrate strong SQL skills for data analytics.
 
 ---
 
-## 📊 SQL Questions Solved
+##  SQL Questions Solved
 
 ###  Basic
 - Retrieve the total number of orders placed
@@ -30,7 +30,6 @@ This project explores a pizza sales dataset using structured SQL queries to extr
 
 ##  Tools Used
 - MySQL
-- SQL Queries
 - Microsoft Word (for screenshots & documentation)
 - CSV files for data input
 
